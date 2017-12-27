@@ -1,0 +1,1 @@
+This can be a useful repository for color palette.
