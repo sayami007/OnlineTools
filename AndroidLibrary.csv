@@ -1,28 +1,24 @@
 Title, Link
 Android Library, https://github.com/treesouth/AndroidLibrary
- EventBus, https://www.youtube.com/results?search_query=eventbus+android+tutorial 
- Broadcast Receiver, https://www.slideshare.net/androidstream/android-application-component-broadcastreceiver-tutorial
- Coordinator Layout, http://saulmm.github.io/mastering-coordinator
+ EventBus,Event Bus
  Timber , Log in Debug mode.
  Hawk, Key value pair storage.
- View Pager Indicator, https://github.com/JakeWharton/ViewPagerIndicator 
- Circle Indicator, https://github.com/ongakuer/CircleIndicator 
- Picasso Transformation, https://github.com/wasabeef/picasso-transformations 
- PrettyTime Library, http://www.ocpsoft.org/prettytime/nlp/ 
- Android Validation , rhttps://github.com/ragunathjawahar/android-saripaar 
- Error View, https://github.com/xiprox/ErrorView 
- Auto Complete, https://github.com/splitwise/TokenAutoComplete 
- Icon Generator, https://romannurik.github.io/AndroidAssetStudio/ 
- Color Chooser, http://mcg.mbitson.com/#!?mcgpalette0=%23ff0000
- MVP, http://konmik.com/post/introduction_to_model_view_presenter_on_android/
+ View Pager Indicator, https://github.com/JakeWharton/ViewPagerIndicator‰Û¬
+ Circle Indicator, https://github.com/ongakuer/CircleIndicator‰Û¬
+ Picasso Transformation, https://github.com/wasabeef/picasso-transformations‰Û¬
+ PrettyTime Library, http://www.ocpsoft.org/prettytime/nlp/‰Û¬
+ Android Validation , https://github.com/ragunathjawahar/android-saripaar‰Û¬
+ Error View, https://github.com/xiprox/ErrorView‰Û¬
+ Auto Complete, https://github.com/splitwise/TokenAutoComplete‰Û¬
+ Icon Generator, https://romannurik.github.io/AndroidAssetStudio/‰Û¬
+
  Circle Image, https://github.com/hdodenhof/CircleImageView
  Expandable Navigation Drawer, https://github.com/msahakyan/expandable-navigation-drawer
- WebViewClient
+
  Chat Screen, https://github.com/stfalcon-studio/ChatKit
  Splash Screen, https://www.bignerdranch.com/blog/splash-screens-the-right-way/
-getItemViewType
+
  PDF VIEWER, https://github.com/barteksc/AndroidPdfViewer
- Firebase, https://github.com/firebase/quickstart-android/issues/20
+
  Image Upload, http://www.theappguruz.com/blog/android-take-photo-camera-gallery-code-sample
 Shimmer effect, https://theengineerscafe.com/add-shimmer-effect-in-android-app/
-
