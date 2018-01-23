@@ -1,1 +1,1 @@
-This can be a useful repository for color palette.
+This can be a useful repository for online tools and shortcuts.
