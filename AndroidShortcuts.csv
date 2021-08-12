@@ -43,7 +43,7 @@ Override methods ,	Control + O ,	Control + O
 Implement methods 	,Control + I ,	Control + I
 Surround with (if...else / try...catch / etc.) ,	Control + Alt + T ,	Command + Option + T
 Delete line at caret 	,Control + Y ,	Command + Backspace
- 	Collapse/expand current code block, 	Control + minus/plus ,	Command + minus/plus 
+Collapse/expand current code block, 	Control + minus/plus ,	Command + minus/plus 
 Collapse/expand all code blocks 	,Control + Shift + minus/plus ,	Command + Shift + minus/plus
 Duplicate current line or selection ,	Control + D 	,Command + D
 Basic code completion ,	Control + Space ,	Control + Space
